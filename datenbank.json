@@ -1,0 +1,25 @@
+{
+  "applicants": [
+    {
+      "first_name": "Aleandro",
+      "last_name": "Trujillo",
+      "email": "ale.trujillo@gmx.net",
+      "sex": " Herr ",
+      "num_persons": 2
+    },
+    {
+      "first_name": "Emma",
+      "last_name": "Wittig",
+      "email": "emmawittig6@gmail.com",
+      "sex": " Herr ",
+      "num_persons": 2
+    },
+    {
+      "first_name": "Konrad",
+      "last_name": "Schreier",
+      "email": "aletest@gmx.net",
+      "sex": " Herr ",
+      "num_persons": 2
+    }
+  ]
+}
